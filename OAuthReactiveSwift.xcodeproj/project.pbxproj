@@ -92,7 +92,7 @@
 			children = (
 				C4104B3C1DB25B2D003AF12C /* OAuthReactiveSwift.swift */,
 			);
-			name = Sources;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		C4104B2B1DB258EB003AF12C /* Frameworks */ = {
